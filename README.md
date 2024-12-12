@@ -2,7 +2,7 @@
 Welcome to the official repository for our paper **"HyperDefender: A Hybrid Framework Safeguarding GNNs for Hyperbolic Space"** accepted for publication at AAAI 2025!. This repository includes the code and data used in our experiments.
 
 # Paper
-Thank you for visiting! You can access the preprint of our paper here.
+Thank you for visiting! You can access the preprint of our paper here (coming soon).
 
 # Highlights
 Our framework is designed to achieve the following:
@@ -102,6 +102,8 @@ To run ProHyLa experiments on the random-attacked airport dataset, use the provi
 - `ProHyla_airport.ipynb`
 
 ---
+# Citation
+If you find this repository helpful in your research, please consider citing our work to be published at AAAI 2025:
 
 ## Notes
 
