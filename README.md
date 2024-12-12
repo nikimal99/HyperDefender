@@ -1,5 +1,5 @@
 # HyperDefender
-Welcome to the official repository for our paper **"HyperDefender: A Hybrid Framework Safeguarding GNNs for Hyperbolic Space"** accepted for publication at AAAI 2025!. This repository includes the code and data used in our experiments.
+Welcome to the official repository for our paper **"HyperDefender: A Hybrid Framework Safeguarding GNNs for Hyperbolic Space"** accepted for publication at AAAI 2025! This repository includes the code and data used in our experiments.
 
 # Paper
 Thank you for visiting! You can access the preprint of our paper here (coming soon).
