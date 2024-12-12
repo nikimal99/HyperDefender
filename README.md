@@ -4,18 +4,6 @@ Welcome to the official repository for our paper **"HyperDefender: A Hybrid Fram
 # Paper
 Thank you for visiting! You can access the preprint of our paper here (coming soon).
 
-# Highlights
-Our framework is designed to achieve the following:
-
-- Evaluating the vulnerability of GNNs and Hy-GNNs to poisoning and evasion attacks, showing that neither standalone Hy-GNNs nor Euclidean defenses can effectively counter adversarial challenges in hierarchical datasets.
-
-- Analyzing Gromov δ-hyperbolicity to understand how adversarial attacks disrupt the hierarchy in graph networks.
-
-- Presenting HyperDefender, a flexible framework that combines Euclidean defenses to develop robust hyperbolic methods, restoring hierarchical integrity and resisting adversarial attacks.
-
-- Benchmarking HyperDefender's performance under adversarial conditions in node classification tasks, demonstrating its superiority over existing Euclidean defense models.
-
-
 ## Installation
 
 ### Step 1: Unzip the Attacks Folder
